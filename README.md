@@ -66,4 +66,6 @@ Payment Preferences: UPI and Credit Card dominate, suggesting digital payment ca
 
 Sales Trends: Consistent weekend spikes indicate higher consumer activity on Saturdays, which can inform promotional strategies.
 
-7. Screenshot of Dashboard : 
+7. Screenshot of Dashboard : https://github.com/amit-mishra-ai/PowerBI_Projects/blob/main/Snapshot%20of%20Sales%20Dashboard.png
+   <img width="1433" height="801" alt="image" src="https://github.com/user-attachments/assets/355942a2-4da0-46e3-84f7-90f67869a660" />
+
