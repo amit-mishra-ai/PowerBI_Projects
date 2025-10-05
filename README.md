@@ -76,6 +76,10 @@ The challenge was to **identify regional sales trends, customer satisfaction lev
 - **Sales Trends:** Higher orders on weekends → opportunity for targeted promotions  
 
 ---
+## Dashboard Link :
+https://app.powerbi.com/view?r=eyJrIjoiNTQ5OTJhMjItZGZmZS00YmVhLWFlN2ItNjAyMzJjOWY1NzRlIiwidCI6IjYyOTZhNGQzLTZiNjgtNGY3NC05ZWRhLWIxMDAzMzkyYzAxOCJ9
+
+------
 
 ## 📷 Dashboard Preview  
 ![Dashboard Snapshot](Snapshot%20of%20Sales%20Dashboard.png)  
